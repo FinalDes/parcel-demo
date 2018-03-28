@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "Alex Alonso <alex4551@gmail.com>",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "start": "parcel src/index.html"
   },
